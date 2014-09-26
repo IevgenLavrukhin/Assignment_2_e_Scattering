@@ -1,0 +1,9 @@
+To compile and run the code do:
+
+	make
+
+To run the code:
+
+	./run "E0" "dE" "Z" "A" "density" "L" "R"
+
+where "E0" "dE" - energy of the beam; "Z" "A" "density" - target material caracteristics; "L" "R" - target geometry
